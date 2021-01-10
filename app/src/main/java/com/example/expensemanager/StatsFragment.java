@@ -1,4 +1,4 @@
-package com.karthik.expensemanager;
+package com.example.expensemanager;
 
 import android.graphics.Color;
 import android.os.Bundle;
